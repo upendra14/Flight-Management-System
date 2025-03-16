@@ -1,5 +1,4 @@
 # Flight-Management-System
-# Flight Management System
 
 ## Overview
 A role-based flight management system where admins manage flight schedules and passenger records, while users can book tickets, process payments, and track flights in real time.
